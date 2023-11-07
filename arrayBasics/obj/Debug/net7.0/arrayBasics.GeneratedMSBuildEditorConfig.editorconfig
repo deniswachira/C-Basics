@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = businessRule
-build_property.ProjectDir = E:\My Staff\Coding tutorials\C#\2024\CSharp_Basics\businessRule\
+build_property.RootNamespace = arrayBasics
+build_property.ProjectDir = E:\My Staff\Coding tutorials\C#\2024\CSharp_Basics\arrayBasics\

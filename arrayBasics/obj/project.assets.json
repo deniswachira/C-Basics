@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\My Staff\\Coding tutorials\\C#\\2024\\CSharp_Basics\\businessRule\\businessRule.csproj",
-      "projectName": "businessRule",
-      "projectPath": "E:\\My Staff\\Coding tutorials\\C#\\2024\\CSharp_Basics\\businessRule\\businessRule.csproj",
+      "projectUniqueName": "E:\\My Staff\\Coding tutorials\\C#\\2024\\CSharp_Basics\\arrayBasics\\arrayBasics.csproj",
+      "projectName": "arrayBasics",
+      "projectPath": "E:\\My Staff\\Coding tutorials\\C#\\2024\\CSharp_Basics\\arrayBasics\\arrayBasics.csproj",
       "packagesPath": "C:\\Users\\Iam_DevDenis\\.nuget\\packages\\",
-      "outputPath": "E:\\My Staff\\Coding tutorials\\C#\\2024\\CSharp_Basics\\businessRule\\obj\\",
+      "outputPath": "E:\\My Staff\\Coding tutorials\\C#\\2024\\CSharp_Basics\\arrayBasics\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Iam_DevDenis\\AppData\\Roaming\\NuGet\\NuGet.Config",

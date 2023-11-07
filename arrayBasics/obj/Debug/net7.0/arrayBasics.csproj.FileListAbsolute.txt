@@ -1,0 +1,14 @@
+E:\My Staff\Coding tutorials\C#\2024\CSharp_Basics\arrayBasics\bin\Debug\net7.0\arrayBasics.exe
+E:\My Staff\Coding tutorials\C#\2024\CSharp_Basics\arrayBasics\bin\Debug\net7.0\arrayBasics.deps.json
+E:\My Staff\Coding tutorials\C#\2024\CSharp_Basics\arrayBasics\bin\Debug\net7.0\arrayBasics.runtimeconfig.json
+E:\My Staff\Coding tutorials\C#\2024\CSharp_Basics\arrayBasics\bin\Debug\net7.0\arrayBasics.dll
+E:\My Staff\Coding tutorials\C#\2024\CSharp_Basics\arrayBasics\bin\Debug\net7.0\arrayBasics.pdb
+E:\My Staff\Coding tutorials\C#\2024\CSharp_Basics\arrayBasics\obj\Debug\net7.0\arrayBasics.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Staff\Coding tutorials\C#\2024\CSharp_Basics\arrayBasics\obj\Debug\net7.0\arrayBasics.AssemblyInfoInputs.cache
+E:\My Staff\Coding tutorials\C#\2024\CSharp_Basics\arrayBasics\obj\Debug\net7.0\arrayBasics.AssemblyInfo.cs
+E:\My Staff\Coding tutorials\C#\2024\CSharp_Basics\arrayBasics\obj\Debug\net7.0\arrayBasics.csproj.CoreCompileInputs.cache
+E:\My Staff\Coding tutorials\C#\2024\CSharp_Basics\arrayBasics\obj\Debug\net7.0\arrayBasics.dll
+E:\My Staff\Coding tutorials\C#\2024\CSharp_Basics\arrayBasics\obj\Debug\net7.0\refint\arrayBasics.dll
+E:\My Staff\Coding tutorials\C#\2024\CSharp_Basics\arrayBasics\obj\Debug\net7.0\arrayBasics.pdb
+E:\My Staff\Coding tutorials\C#\2024\CSharp_Basics\arrayBasics\obj\Debug\net7.0\arrayBasics.genruntimeconfig.cache
+E:\My Staff\Coding tutorials\C#\2024\CSharp_Basics\arrayBasics\obj\Debug\net7.0\ref\arrayBasics.dll
