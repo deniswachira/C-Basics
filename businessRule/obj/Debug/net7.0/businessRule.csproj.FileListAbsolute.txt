@@ -1,0 +1,14 @@
+C:\Users\Iam_DevDenis\Desktop\CsharpProjects\businessRule\bin\Debug\net7.0\businessRule.exe
+C:\Users\Iam_DevDenis\Desktop\CsharpProjects\businessRule\bin\Debug\net7.0\businessRule.deps.json
+C:\Users\Iam_DevDenis\Desktop\CsharpProjects\businessRule\bin\Debug\net7.0\businessRule.runtimeconfig.json
+C:\Users\Iam_DevDenis\Desktop\CsharpProjects\businessRule\bin\Debug\net7.0\businessRule.dll
+C:\Users\Iam_DevDenis\Desktop\CsharpProjects\businessRule\bin\Debug\net7.0\businessRule.pdb
+C:\Users\Iam_DevDenis\Desktop\CsharpProjects\businessRule\obj\Debug\net7.0\businessRule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iam_DevDenis\Desktop\CsharpProjects\businessRule\obj\Debug\net7.0\businessRule.AssemblyInfoInputs.cache
+C:\Users\Iam_DevDenis\Desktop\CsharpProjects\businessRule\obj\Debug\net7.0\businessRule.AssemblyInfo.cs
+C:\Users\Iam_DevDenis\Desktop\CsharpProjects\businessRule\obj\Debug\net7.0\businessRule.csproj.CoreCompileInputs.cache
+C:\Users\Iam_DevDenis\Desktop\CsharpProjects\businessRule\obj\Debug\net7.0\businessRule.dll
+C:\Users\Iam_DevDenis\Desktop\CsharpProjects\businessRule\obj\Debug\net7.0\refint\businessRule.dll
+C:\Users\Iam_DevDenis\Desktop\CsharpProjects\businessRule\obj\Debug\net7.0\businessRule.pdb
+C:\Users\Iam_DevDenis\Desktop\CsharpProjects\businessRule\obj\Debug\net7.0\businessRule.genruntimeconfig.cache
+C:\Users\Iam_DevDenis\Desktop\CsharpProjects\businessRule\obj\Debug\net7.0\ref\businessRule.dll
